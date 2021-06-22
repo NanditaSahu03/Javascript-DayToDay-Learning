@@ -9,3 +9,5 @@ Day 2 : Working With Ajax & JSON
 Day 3 : Callback Functions
 
 Day 4 : Custom HTTP Library (Ajax With Callbacks)
+
+Day 5 : Fetch API with promises
