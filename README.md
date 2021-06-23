@@ -13,3 +13,5 @@ Day 4 : Custom HTTP Library (Ajax With Callbacks)
 Day 5 : Fetch API with promises
 
 Day 6 : Arrow Functions
+
+Day 7: Fetch API with Arrow
