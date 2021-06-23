@@ -17,3 +17,5 @@ Day 6 : Arrow Functions
 Day 7: Fetch API with Arrow
 
 Day 8 : Custom Http Library(Fetch with Promises with Arrows (ES6))
+
+Day 9 : Async and Await
