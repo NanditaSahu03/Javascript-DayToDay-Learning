@@ -21,3 +21,7 @@ Day 8 : Custom Http Library(Fetch with Promises with Arrows (ES6))
 Day 9 : Async and Await
 
 Day 10 : Custom Http Library(Fetch with Async Await (ES7))
+
+Day 11 : Part a : Error Handling using Try and Catch 
+         
+         Part b : Regular Expressions
