@@ -23,5 +23,9 @@ Day 9 : Async and Await
 Day 10 : Custom Http Library(Fetch with Async Await (ES7))
 
 Day 11 : Part a : Error Handling using Try and Catch 
-         
          Part b : Regular Expressions
+                  1. Evaluation Functions
+                  2. Metacharacter Symbols
+                  3. Character Sets and Quantifiers
+                  4. Shorthand Character Classes
+                  5. Form Validation Project
