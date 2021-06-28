@@ -35,3 +35,5 @@ Day 11 : Part a : Error Handling using Try and Catch
                   4. Shorthand Character Classes
                   
                   5. Form Validation Project
+
+Day 12  : Iterators and Generators
