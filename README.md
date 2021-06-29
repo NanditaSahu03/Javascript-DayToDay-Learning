@@ -41,3 +41,9 @@ Day 12  : Iterators and Generators
 Day 13 : Profile Scroller Project By Iterators
 
 Day 14 : Symbols
+
+Day 15 : Destructuring 
+
+Day 16 : ES6 Maps
+
+Day 17 : ES6 Sets
