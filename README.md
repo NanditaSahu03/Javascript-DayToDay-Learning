@@ -47,3 +47,5 @@ Day 15 : Destructuring
 Day 16 : ES6 Maps
 
 Day 17 : ES6 Sets
+
+Day 18 : Module and Revealing Module Pattern(ES5)
