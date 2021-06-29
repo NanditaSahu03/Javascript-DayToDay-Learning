@@ -37,3 +37,7 @@ Day 11 : Part a : Error Handling using Try and Catch
                   5. Form Validation Project
 
 Day 12  : Iterators and Generators
+
+Day 13 : Profile Scroller Project By Iterators
+
+Day 14 : Symbols
