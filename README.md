@@ -52,6 +52,6 @@ Day 18 : Module and Revealing Module Pattern(ES5)
 
 Day 19 : Singleton Pattern
 
-Day 20 : Feature Pattern
+Day 20 : Factory Pattern
 
 Day 21 : Observer Pattern
