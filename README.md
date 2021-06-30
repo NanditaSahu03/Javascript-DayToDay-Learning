@@ -49,3 +49,9 @@ Day 16 : ES6 Maps
 Day 17 : ES6 Sets
 
 Day 18 : Module and Revealing Module Pattern(ES5)
+
+Day 19 : Singleton Pattern
+
+Day 20 : Feature Pattern
+
+Day 21 : Observer Pattern
