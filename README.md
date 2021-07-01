@@ -55,3 +55,7 @@ Day 19 : Singleton Pattern
 Day 20 : Factory Pattern
 
 Day 21 : Observer Pattern
+
+Day 22 : Mediator Pattern
+
+Day 23 : State Pattern 
